@@ -24,6 +24,9 @@ int main()
 	//number of turns keeps track of how many turns go by and to check for a tie, finally loop
 	//control is in charge of the loop 
 
+	cout << "Coding Project\n";
+
+
 	int row = 0, column = 0, number_of_turns = 1; 
 	bool loop_control = false;
 
